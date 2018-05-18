@@ -47,7 +47,8 @@
       "wp": {
         "env": "production",
         "default_theme": "twentyseventeen"
-      }
+      },
+      "disallow_file_mods": "false"
     }
   },
   "scripts": {
