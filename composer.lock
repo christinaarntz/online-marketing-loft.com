@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36e45fbd24f6c76a47e342e52179ec35",
+    "content-hash": "948536f2034db2ca57f99c9b3f7fb72e",
     "packages": [
         {
             "name": "composer/installers",
@@ -424,26 +424,6 @@
             "homepage": "https://wordpress.org/plugins/simple-analytics/"
         },
         {
-            "name": "wpackagist-plugin/user-feedback",
-            "version": "1.1.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/user-feedback/",
-                "reference": "tags/1.1.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/user-feedback.1.1.1.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/user-feedback/"
-        },
-        {
             "name": "wpackagist-plugin/wordpress-seo",
             "version": "7.5.1",
             "source": {
@@ -482,26 +462,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-maintenance-mode/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-user-profiles",
-            "version": "2.1.0",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-user-profiles/",
-                "reference": "trunk"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-user-profiles.zip?timestamp=1524465205",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-user-profiles/"
         },
         {
             "name": "wpackagist-theme/twentyseventeen",
