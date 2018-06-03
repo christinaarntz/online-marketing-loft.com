@@ -60,7 +60,7 @@
             "sunrise": true,
             "wp": {
                 "env": "production",
-                "default_theme": "shark-business-pro"
+                "default_theme": "shark-business-pro-child"
             },
             "disallow_file_mods": "false"
         }
