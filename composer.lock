@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c29ac7a350da38a845f29ebee7f7cf4e",
+    "content-hash": "1e3093a2d9331634443090eaba3b93ab",
     "packages": [
         {
             "name": "composer/installers",
@@ -402,6 +402,86 @@
                 "environment"
             ],
             "time": "2015-05-30T16:15:01+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/antispam-bee",
+            "version": "2.8.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/antispam-bee/",
+                "reference": "tags/2.8.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/antispam-bee.2.8.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/antispam-bee/"
+        },
+        {
+            "name": "wpackagist-plugin/backwpup",
+            "version": "3.5.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/backwpup/",
+                "reference": "tags/3.5.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/backwpup.3.5.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/backwpup/"
+        },
+        {
+            "name": "wpackagist-plugin/jetpack",
+            "version": "6.1.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/jetpack/",
+                "reference": "tags/6.1.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.6.1.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/jetpack/"
+        },
+        {
+            "name": "wpackagist-plugin/multilingual-press",
+            "version": "2.11.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/multilingual-press/",
+                "reference": "tags/2.11.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/multilingual-press.2.11.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/multilingual-press/"
         },
         {
             "name": "wpackagist-plugin/simple-analytics",
