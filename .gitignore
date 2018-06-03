@@ -13,6 +13,7 @@ public/app/uploads/*
 !public/app/mu-plugins/wp-composer-stack.php
 !public/app/mu-plugins/update-management.php
 !public/app/themes/shark-business-pro
+!public/app/themes/shark-business-pro-child
 
 # WordPress
 public/core
