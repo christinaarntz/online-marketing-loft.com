@@ -53,6 +53,8 @@
         },
         "wordpress-install-dir": "public/core",
         "constants": {
+            "multisite": true,
+            "sunrise": true,
             "wp": {
                 "env": "production",
                 "default_theme": "twentyseventeen"
