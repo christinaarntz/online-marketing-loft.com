@@ -1,0 +1,2116 @@
+# <!=Copyright (C) 2018 Shark Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Shark Business Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-04-18 18:09:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search."
+msgstr ""
+
+#: comments.php:34
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:226
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:228 functions.php:238 functions.php:248 functions.php:258
+#: functions.php:268
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:236
+msgid "Optional Sidebar %d"
+msgstr ""
+
+#: functions.php:246
+msgid "Home Page Area"
+msgstr ""
+
+#: functions.php:256
+msgid "About Page Area"
+msgstr ""
+
+#: functions.php:266
+msgid "Service Page Area"
+msgstr ""
+
+#: functions.php:316
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:317
+msgid "Collapse child menu"
+msgstr ""
+
+#: homepage.php:22
+msgid "Welcome to Shark Business Pro Theme"
+msgstr ""
+
+#: homepage.php:22
+msgid ""
+"Shark Business Pro provides you the best platform for your business site. "
+"Customize Slider from Customizer Theme Options. Customize Home Page by "
+"adding widgets that are compatible for home page. Add Widgets that are "
+"prefixed by ST."
+msgstr ""
+
+#: inc/breadcrumb.php:243
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumb.php:245
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:246
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumb.php:247
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumb.php:249
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/breadcrumb.php:251
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumb.php:253
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumb.php:255
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: inc/construct.php:67
+msgid "Skip to content"
+msgstr ""
+
+#: inc/construct.php:237
+msgid "Menu"
+msgstr ""
+
+#: inc/construct.php:306
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/construct.php:308
+msgid "Oops! That page can&#39;t be found."
+msgstr ""
+
+#: inc/custom-header.php:33
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:10
+msgid "Blog/Archive Page Setting"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:11
+msgid "Blog/Archive/Search Page Setting Options"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:22
+msgid "Latest Blog Title"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:23
+msgid ""
+"Note: This title is displayed when your homepage displays option is set to "
+"latest posts."
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:35 inc/customizer/page-customizer.php:22
+#: inc/customizer/single-customizer.php:22
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:47 inc/widgets/client-widget.php:193
+#: inc/widgets/featured-widget.php:198 inc/widgets/portfolio-widget.php:219
+#: inc/widgets/recent-widget.php:184 inc/widgets/service-widget.php:240
+#: inc/widgets/team-widget.php:242 inc/widgets/testimonial-widget.php:250
+msgid "Column Layout"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:51 inc/widgets/testimonial-widget.php:228
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:52 inc/widgets/client-widget.php:174
+#: inc/widgets/featured-widget.php:181 inc/widgets/portfolio-widget.php:202
+#: inc/widgets/recent-widget.php:167 inc/widgets/service-widget.php:219
+#: inc/widgets/team-widget.php:225 inc/widgets/testimonial-widget.php:229
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:53 inc/widgets/client-widget.php:175
+#: inc/widgets/featured-widget.php:182 inc/widgets/portfolio-widget.php:203
+#: inc/widgets/recent-widget.php:168 inc/widgets/service-widget.php:220
+#: inc/widgets/team-widget.php:226 inc/widgets/testimonial-widget.php:230
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:54 inc/widgets/client-widget.php:176
+#: inc/widgets/featured-widget.php:183 inc/widgets/portfolio-widget.php:204
+#: inc/widgets/recent-widget.php:169 inc/widgets/service-widget.php:221
+#: inc/widgets/team-widget.php:227
+msgid "Four Column"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:67
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:68
+msgid "Note: Min 1 & Max 50."
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:84
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:88 inc/customizer/color-customizer.php:19
+#: inc/options.php:158 inc/options.php:179
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:89
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:90
+msgid "Infinite"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:101
+#: inc/customizer/single-customizer.php:34
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:113
+#: inc/customizer/single-customizer.php:46
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:125
+#: inc/customizer/single-customizer.php:70
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/blog-customizer.php:137
+msgid "Show Comment"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:15
+msgid "Theme Color Options"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:20
+msgid "Black"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:21
+msgid "Red"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:22
+msgid "Green"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:23
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:24
+msgid "Purple Gredient"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:25
+#: inc/customizer/slider-customizer.php:76 inc/widgets/author-widget.php:157
+#: inc/widgets/client-widget.php:171 inc/widgets/cta-widget.php:145
+#: inc/widgets/hero-content-widget.php:138
+#: inc/widgets/introduction-widget.php:172 inc/widgets/portfolio-widget.php:199
+#: inc/widgets/service-widget.php:216 inc/widgets/team-widget.php:222
+#: inc/widgets/testimonial-widget.php:225
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/color-customizer.php:35
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/default.php:16
+msgid "Wall Street, New York"
+msgstr ""
+
+#: inc/customizer/default.php:17
+msgid "+00 0 0000000"
+msgstr ""
+
+#: inc/customizer/default.php:30
+msgid "Copyright &copy; Shark Business Pro Theme | All Rights Reserved."
+msgstr ""
+
+#: inc/customizer/default.php:30
+msgid " Shark Business Pro by %1$s Shark Themes %2$s"
+msgstr ""
+
+#: inc/customizer/default.php:33
+msgid "Blogs"
+msgstr ""
+
+#: inc/customizer/footer-customizer.php:10
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer/footer-customizer.php:11
+msgid "Footer Setting Options"
+msgstr ""
+
+#: inc/customizer/footer-customizer.php:22
+msgid "Show Slide to Top"
+msgstr ""
+
+#: inc/customizer/footer-customizer.php:36
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:10
+msgid "Global Setting"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:11
+msgid "Global Setting Options"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:22
+msgid "Make Header Sticky"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:34
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:46
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:58
+msgid "Enable Loader"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:70
+msgid "Loader Type"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:83
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/customizer/global-customizer.php:96
+msgid "Body Typography"
+msgstr ""
+
+#: inc/customizer/page-customizer.php:10
+msgid "Page Setting"
+msgstr ""
+
+#: inc/customizer/page-customizer.php:11
+msgid "Page Setting Options"
+msgstr ""
+
+#: inc/customizer/single-customizer.php:10
+msgid "Single Post Setting"
+msgstr ""
+
+#: inc/customizer/single-customizer.php:11
+msgid "Single Post Setting Options"
+msgstr ""
+
+#: inc/customizer/single-customizer.php:58
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:10
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:11
+msgid "Slider Setting Options"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:22
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:34
+msgid "Show Entire Site"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:46
+msgid "Show Arrow Controller"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:58
+msgid "Enable Slider Wave Border"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:70 inc/widgets/author-widget.php:166
+#: inc/widgets/client-widget.php:208 inc/widgets/cta-widget.php:168
+#: inc/widgets/featured-widget.php:219 inc/widgets/hero-content-widget.php:148
+#: inc/widgets/introduction-widget.php:196
+#: inc/widgets/latest-post-widget.php:128 inc/widgets/portfolio-widget.php:234
+#: inc/widgets/recent-widget.php:205 inc/widgets/service-widget.php:264
+#: inc/widgets/team-widget.php:257 inc/widgets/testimonial-widget.php:265
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:74 inc/widgets/author-widget.php:155
+#: inc/widgets/client-widget.php:168 inc/widgets/cta-widget.php:143
+#: inc/widgets/featured-widget.php:176 inc/widgets/hero-content-widget.php:136
+#: inc/widgets/introduction-widget.php:170 inc/widgets/portfolio-widget.php:196
+#: inc/widgets/service-widget.php:213 inc/widgets/team-widget.php:219
+#: inc/widgets/testimonial-widget.php:222
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:75 inc/widgets/author-widget.php:156
+#: inc/widgets/client-widget.php:169 inc/widgets/cta-widget.php:144
+#: inc/widgets/featured-widget.php:177 inc/widgets/hero-content-widget.php:137
+#: inc/widgets/introduction-widget.php:171 inc/widgets/portfolio-widget.php:197
+#: inc/widgets/recent-widget.php:163 inc/widgets/service-widget.php:214
+#: inc/widgets/team-widget.php:220 inc/widgets/testimonial-widget.php:223
+msgid "Post"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:89
+msgid "Number of Latest Blog"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:90
+msgid "Note: Min 1 & Max 10. Please refresh the page to see the change."
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:107 inc/widgets/client-widget.php:222
+#: inc/widgets/featured-widget.php:233 inc/widgets/portfolio-widget.php:248
+#: inc/widgets/service-widget.php:279 inc/widgets/team-widget.php:273
+#: inc/widgets/testimonial-widget.php:281
+msgid "Select Page %d"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:119 inc/widgets/client-widget.php:236
+#: inc/widgets/featured-widget.php:247 inc/widgets/portfolio-widget.php:262
+#: inc/widgets/recent-widget.php:219 inc/widgets/service-widget.php:299
+#: inc/widgets/team-widget.php:308 inc/widgets/testimonial-widget.php:316
+msgid "Select Post %d"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:131
+msgid "Input Title %d"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:143
+msgid "Input Link %d"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:155
+msgid "Input Description %d"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:168
+msgid "Select Image %d"
+msgstr ""
+
+#: inc/customizer/slider-customizer.php:169
+msgid "Recommended size: %1$dpx x %2$dpx "
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:10
+msgid "Top Bar Section"
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:11
+msgid "Note: To show social menu."
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:11
+msgid "Click Here"
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:11
+msgid "to create menu."
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:22
+msgid "Enable Topbar"
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:34
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:46
+msgid "Phone No"
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:58
+msgid "Email ID"
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:70
+msgid "Show Social Menu"
+msgstr ""
+
+#: inc/customizer/topbar-customizer.php:82
+msgid "Show Search"
+msgstr ""
+
+#: inc/customizer/validate.php:18 inc/customizer/validate.php:38
+msgid "You must supply a valid number."
+msgstr ""
+
+#: inc/customizer/validate.php:20
+msgid "Minimum no of Excerpt Lenght is 1"
+msgstr ""
+
+#: inc/customizer/validate.php:22
+msgid "Maximum no of Excerpt Lenght is 50"
+msgstr ""
+
+#: inc/customizer/validate.php:40
+msgid "Minimum no of Slider is 1"
+msgstr ""
+
+#: inc/customizer/validate.php:42
+msgid "Maximum no of Slider is 10"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Shark Business Pro Theme Options."
+msgstr ""
+
+#: inc/demo-import.php:15
+msgid "Shark Business Pro Demo"
+msgstr ""
+
+#: inc/demo-import.php:20
+msgid ""
+"Please wait for a few minutes, do not close the window or refresh the page "
+"until the data is imported."
+msgstr ""
+
+#: inc/footer-widget.php:106
+msgid "Footer Widget %d"
+msgstr ""
+
+#: inc/metabox.php:79
+msgid "Layout Options"
+msgstr ""
+
+#: inc/metabox.php:80
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/metabox.php:167
+msgid "Shark Business Pro Meta Options"
+msgstr ""
+
+#: inc/options.php:15
+msgid "Yes"
+msgstr ""
+
+#: inc/options.php:16
+msgid "No"
+msgstr ""
+
+#: inc/options.php:30 inc/options.php:46 inc/options.php:72
+msgid "None"
+msgstr ""
+
+#: inc/options.php:122
+msgid "Two Way"
+msgstr ""
+
+#: inc/options.php:123
+msgid "Umbrella"
+msgstr ""
+
+#: inc/options.php:124
+msgid "Dots"
+msgstr ""
+
+#: inc/options.php:125
+msgid "One Way"
+msgstr ""
+
+#: inc/options.php:138
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/options.php:139
+msgid "Optional Sidebar 1"
+msgstr ""
+
+#: inc/options.php:140
+msgid "Optional Sidebar 2"
+msgstr ""
+
+#: inc/options.php:141
+msgid "Optional Sidebar 3"
+msgstr ""
+
+#: inc/options.php:142
+msgid "Optional Sidebar 4"
+msgstr ""
+
+#: inc/options.php:159
+msgid "Rajdhani"
+msgstr ""
+
+#: inc/options.php:160
+msgid "Roboto"
+msgstr ""
+
+#: inc/options.php:161
+msgid "Philosopher"
+msgstr ""
+
+#: inc/options.php:162
+msgid "Slabo 27px"
+msgstr ""
+
+#: inc/options.php:163
+msgid "Dosis"
+msgstr ""
+
+#: inc/options.php:180
+msgid "News Cycle"
+msgstr ""
+
+#: inc/options.php:181
+msgid "Pontano Sans"
+msgstr ""
+
+#: inc/options.php:182
+msgid "Gudea"
+msgstr ""
+
+#: inc/options.php:183
+msgid "Quattrocento"
+msgstr ""
+
+#: inc/options.php:184
+msgid "Khand"
+msgstr ""
+
+#: inc/template-functions.php:309
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/template-functions.php:314
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/template-functions.php:502
+msgid "Add a menu"
+msgstr ""
+
+#: inc/template-tags.php:18
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:108
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:126 template-parts/content-page.php:33
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/tgm-hook.php:63
+msgid "JetPack"
+msgstr ""
+
+#: inc/tgm-plugin/tgm-hook.php:69
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm-plugin/tgm-hook.php:75
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: inc/updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: inc/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:35 inc/updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: inc/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: inc/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: inc/updater/theme-updater.php:39
+msgid "Expires %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:40
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/updater/theme-updater.php:41
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr ""
+
+#: inc/updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:48
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/updater/theme-updater.php:49
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4$s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: inc/widgets/author-widget.php:18 inc/widgets/featured-widget.php:18
+#: inc/widgets/instagram-widget.php:41
+msgid "Compatible Area: Homepage, About Page, Service Page, Sidebar, Footer"
+msgstr ""
+
+#: inc/widgets/author-widget.php:20
+msgid "ST: Author Widget"
+msgstr ""
+
+#: inc/widgets/author-widget.php:143
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/author-widget.php:161 inc/widgets/client-widget.php:183
+#: inc/widgets/contact-widget.php:92 inc/widgets/counter-widget.php:102
+#: inc/widgets/cta-widget.php:154 inc/widgets/featured-widget.php:188
+#: inc/widgets/hero-content-widget.php:143
+#: inc/widgets/introduction-widget.php:177
+#: inc/widgets/latest-post-widget.php:118 inc/widgets/portfolio-widget.php:209
+#: inc/widgets/recent-widget.php:174 inc/widgets/service-widget.php:230
+#: inc/widgets/social-widget.php:67 inc/widgets/team-widget.php:232
+#: inc/widgets/testimonial-widget.php:235
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/author-widget.php:176 inc/widgets/cta-widget.php:178
+#: inc/widgets/hero-content-widget.php:158
+#: inc/widgets/introduction-widget.php:206
+msgid "Select Page"
+msgstr ""
+
+#: inc/widgets/author-widget.php:187 inc/widgets/cta-widget.php:190
+#: inc/widgets/hero-content-widget.php:170
+#: inc/widgets/introduction-widget.php:217
+msgid "Select Post"
+msgstr ""
+
+#: inc/widgets/author-widget.php:199
+msgid "Author Title"
+msgstr ""
+
+#: inc/widgets/author-widget.php:204
+msgid "Author Description"
+msgstr ""
+
+#: inc/widgets/author-widget.php:209
+msgid "Author Image"
+msgstr ""
+
+#: inc/widgets/author-widget.php:211 inc/widgets/client-widget.php:279
+#: inc/widgets/counter-widget.php:130 inc/widgets/cta-widget.php:216
+#: inc/widgets/introduction-widget.php:247 inc/widgets/portfolio-widget.php:311
+#: inc/widgets/team-widget.php:406 inc/widgets/testimonial-widget.php:414
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/author-widget.php:212
+msgid ""
+"Note: Recomended size 200x200 px. When you change the image, please make "
+"some changes in any other input field to save changes."
+msgstr ""
+
+#: inc/widgets/author-widget.php:226 inc/widgets/client-widget.php:294
+#: inc/widgets/counter-widget.php:145 inc/widgets/cta-widget.php:231
+#: inc/widgets/introduction-widget.php:262 inc/widgets/portfolio-widget.php:326
+#: inc/widgets/team-widget.php:421 inc/widgets/testimonial-widget.php:429
+msgid "Preview"
+msgstr ""
+
+#: inc/widgets/author-widget.php:233 inc/widgets/social-widget.php:72
+msgid "Social Links:"
+msgstr ""
+
+#: inc/widgets/author-widget.php:241 inc/widgets/social-widget.php:80
+#: inc/widgets/team-widget.php:295 inc/widgets/team-widget.php:330
+#: inc/widgets/team-widget.php:365 inc/widgets/team-widget.php:434
+#: inc/widgets/testimonial-widget.php:303
+#: inc/widgets/testimonial-widget.php:338
+#: inc/widgets/testimonial-widget.php:373
+#: inc/widgets/testimonial-widget.php:442
+msgid "Add Social Link"
+msgstr ""
+
+#: inc/widgets/client-widget.php:18 inc/widgets/counter-widget.php:18
+#: inc/widgets/service-widget.php:18 inc/widgets/testimonial-widget.php:18
+msgid "Compatible Area: Homepage, About Page, Service Page"
+msgstr ""
+
+#: inc/widgets/client-widget.php:20
+msgid "ST: Client Widget"
+msgstr ""
+
+#: inc/widgets/client-widget.php:157
+msgid "Client"
+msgstr ""
+
+#: inc/widgets/client-widget.php:158
+msgid ""
+"Quickly and simply build a personalized website to showcase your creative "
+"work with Client Widget"
+msgstr ""
+
+#: inc/widgets/client-widget.php:170 inc/widgets/featured-widget.php:178
+#: inc/widgets/latest-post-widget.php:113 inc/widgets/portfolio-widget.php:198
+#: inc/widgets/recent-widget.php:164 inc/widgets/service-widget.php:215
+#: inc/widgets/team-widget.php:221 inc/widgets/testimonial-widget.php:224
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/client-widget.php:177
+msgid "Five Column"
+msgstr ""
+
+#: inc/widgets/client-widget.php:178
+msgid "Six Column"
+msgstr ""
+
+#: inc/widgets/client-widget.php:188 inc/widgets/counter-widget.php:107
+#: inc/widgets/featured-widget.php:193 inc/widgets/instagram-widget.php:66
+#: inc/widgets/introduction-widget.php:182 inc/widgets/portfolio-widget.php:214
+#: inc/widgets/recent-widget.php:179 inc/widgets/service-widget.php:235
+#: inc/widgets/team-widget.php:237 inc/widgets/testimonial-widget.php:240
+msgid "Sub Title:"
+msgstr ""
+
+#: inc/widgets/client-widget.php:202
+msgid "No of Client:"
+msgstr ""
+
+#: inc/widgets/client-widget.php:204 inc/widgets/featured-widget.php:209
+#: inc/widgets/portfolio-widget.php:230 inc/widgets/recent-widget.php:195
+#: inc/widgets/service-widget.php:260 inc/widgets/team-widget.php:253
+msgid "Note: Min 2 & Max 12. Please save the settings to see the change."
+msgstr ""
+
+#: inc/widgets/client-widget.php:248 inc/widgets/featured-widget.php:259
+#: inc/widgets/latest-post-widget.php:138 inc/widgets/portfolio-widget.php:274
+#: inc/widgets/recent-widget.php:231 inc/widgets/service-widget.php:316
+#: inc/widgets/team-widget.php:339 inc/widgets/testimonial-widget.php:347
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/client-widget.php:263
+msgid "Client %d"
+msgstr ""
+
+#: inc/widgets/client-widget.php:266
+msgid "Client Link %d"
+msgstr ""
+
+#: inc/widgets/client-widget.php:268 inc/widgets/cta-widget.php:205
+#: inc/widgets/hero-content-widget.php:185
+#: inc/widgets/introduction-widget.php:236 inc/widgets/portfolio-widget.php:305
+#: inc/widgets/service-widget.php:350 inc/widgets/team-widget.php:400
+#: inc/widgets/testimonial-widget.php:408
+msgid "Note: Please make sure input full url with http://"
+msgstr ""
+
+#: inc/widgets/client-widget.php:272
+msgid "Image Alt Text %d"
+msgstr ""
+
+#: inc/widgets/client-widget.php:277
+msgid "Client Image %d"
+msgstr ""
+
+#: inc/widgets/client-widget.php:280 inc/widgets/portfolio-widget.php:312
+msgid ""
+"Note: Recomended size is 600x500 px. When you change the image, please make "
+"some changes in any other input field to save changes."
+msgstr ""
+
+#: inc/widgets/contact-widget.php:18 inc/widgets/latest-post-widget.php:18
+msgid "Compatible Area: Sidebar, Footer"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:20
+msgid "ST: Contact Widget"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:86
+msgid "Contact"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:97
+msgid "Full Address:"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:102
+msgid "Phone:"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:110
+msgid "Add Phone No"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:114
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:122
+msgid "Add Email ID"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:20
+msgid "ST: Counter Widget"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:96
+msgid "Counter"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:97
+msgid "Counter Widget provides you to create counter section for the page."
+msgstr ""
+
+#: inc/widgets/counter-widget.php:112
+msgid "Counter Label"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:113
+msgid "500+"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:116
+msgid "Label %d:"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:121
+msgid "Value %d:"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:128
+msgid "Counter Background Image"
+msgstr ""
+
+#: inc/widgets/counter-widget.php:131
+msgid ""
+"Note: Recomended size 1920x700px. When you change the image, please make "
+"some changes in any other input field to save changes."
+msgstr ""
+
+#: inc/widgets/cta-widget.php:18 inc/widgets/portfolio-widget.php:18
+#: inc/widgets/team-widget.php:18
+msgid "Compatible Area: Homepage, About Page, Service Page, Sidebar"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:20
+msgid "ST: Call to Action Widget"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:39 inc/widgets/cta-widget.php:138
+#: inc/widgets/featured-widget.php:42 inc/widgets/featured-widget.php:169
+#: inc/widgets/hero-content-widget.php:38
+#: inc/widgets/hero-content-widget.php:131
+#: inc/widgets/introduction-widget.php:40
+#: inc/widgets/introduction-widget.php:161
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:130
+msgid "Call to Action"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:148 inc/widgets/service-widget.php:224
+msgid "Center Align"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:149 inc/widgets/introduction-widget.php:167
+#: inc/widgets/service-widget.php:225
+msgid "Left Align"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:159 inc/widgets/instagram-widget.php:76
+msgid "Layout"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:184 inc/widgets/hero-content-widget.php:164
+msgid "Excerpt will be shown from the selected page"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:196 inc/widgets/hero-content-widget.php:176
+msgid "Excerpt will be shown from the selected post"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:203
+msgid "Call to Action Link"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:209
+msgid "Call to Action Description"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:214
+msgid "Background Image"
+msgstr ""
+
+#: inc/widgets/cta-widget.php:217
+msgid ""
+"Note: Recomended size 1920x1000px. When you change the image, please make "
+"some changes in any other input field to save changes."
+msgstr ""
+
+#: inc/widgets/cta-widget.php:239 inc/widgets/featured-widget.php:269
+#: inc/widgets/hero-content-widget.php:196
+#: inc/widgets/introduction-widget.php:269
+msgid "Read More Text:"
+msgstr ""
+
+#: inc/widgets/featured-widget.php:20
+msgid "ST: Featured Widget"
+msgstr ""
+
+#: inc/widgets/featured-widget.php:162
+msgid "Featured"
+msgstr ""
+
+#: inc/widgets/featured-widget.php:163
+msgid "Featured widget allows you to feature any WordPress post"
+msgstr ""
+
+#: inc/widgets/featured-widget.php:175 inc/widgets/latest-post-widget.php:112
+#: inc/widgets/portfolio-widget.php:195 inc/widgets/recent-widget.php:150
+#: inc/widgets/recent-widget.php:162 inc/widgets/service-widget.php:212
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/featured-widget.php:207
+msgid "No of Featured Posts:"
+msgstr ""
+
+#: inc/widgets/featured-widget.php:213 inc/widgets/recent-widget.php:199
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/widgets/featured-widget.php:215 inc/widgets/recent-widget.php:201
+msgid "Note: Min 5 & Max 50."
+msgstr ""
+
+#: inc/widgets/hero-content-widget.php:18
+msgid "Compatible Area: Homepage, About Page, Sidebar"
+msgstr ""
+
+#: inc/widgets/hero-content-widget.php:20
+msgid "ST: Hero Content Widget"
+msgstr ""
+
+#: inc/widgets/hero-content-widget.php:124
+msgid "Hero Content"
+msgstr ""
+
+#: inc/widgets/hero-content-widget.php:183
+msgid "Hero Content Link"
+msgstr ""
+
+#: inc/widgets/hero-content-widget.php:189
+msgid "Hero Content Description"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:29
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:30
+msgid "Share your instagram photos"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:50
+msgid "ST: Instagram Widget"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:61
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:71
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:80
+msgid "1 Column"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:81
+msgid "2 Column"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:82
+msgid "3 Column"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:83
+msgid "4 Column"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:84
+msgid "5 Column"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:95
+msgid "Number of photos"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:100
+msgid "Instagram Image Size"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:104
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:105
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:106
+msgid "Large"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:107
+msgid "Original"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:119
+msgid "Check to Open Link in new Tab/Window"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:123
+msgid "Link text"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:229
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:233
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:241 inc/widgets/instagram-widget.php:249
+#: inc/widgets/instagram-widget.php:253
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:265
+msgid "Instagram Image"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:306
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:18
+msgid "Compatible Area: Homepage, About Page, Sidebar, Footer"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:20
+msgid "ST: Introduction Widget"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:150
+msgid "Introduction"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:151
+msgid ""
+"Quickly and simply build a personalized website and provide brief "
+"introduction with Introduction Widget"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:166
+msgid "Right Align"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:187
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:229
+msgid "Introduction Title"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:234
+msgid "Introduction Link"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:240
+msgid "Introduction Description"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:245
+msgid "Introduction Image"
+msgstr ""
+
+#: inc/widgets/introduction-widget.php:248
+msgid ""
+"Note: Recomended size is 600x600 px. When you change the image, please make "
+"some changes in any other input field to save changes."
+msgstr ""
+
+#: inc/widgets/latest-post-widget.php:20
+msgid "ST : Latest Posts Widget"
+msgstr ""
+
+#: inc/widgets/latest-post-widget.php:106
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/latest-post-widget.php:123
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:20
+msgid "ST: Portfolio Widget"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:184
+msgid "Portfolio"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:185
+msgid ""
+"Quickly and simply build a personalized website to showcase your creative "
+"work with Portfolio Widget"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:228
+msgid "No of Portfolio:"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:290
+msgid "Portfolio %d"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:293
+msgid "Portfolio Title %d"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:298
+msgid "Portfolio Description %d"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:303
+msgid "Portfolio Link %d"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:309
+msgid "Portfolio Image %d"
+msgstr ""
+
+#: inc/widgets/recent-widget.php:18
+msgid "Compatible Area: Homepage, About page, Service Page"
+msgstr ""
+
+#: inc/widgets/recent-widget.php:20
+msgid "ST: Recent Widget"
+msgstr ""
+
+#: inc/widgets/recent-widget.php:151
+msgid ""
+"Quickly and simply build a personalized website to showcase your latest "
+"blogs with Recent Widget"
+msgstr ""
+
+#: inc/widgets/recent-widget.php:193
+msgid "No of Recent Posts:"
+msgstr ""
+
+#: inc/widgets/service-widget.php:20
+msgid "ST: Service Widget"
+msgstr ""
+
+#: inc/widgets/service-widget.php:200
+msgid "Service"
+msgstr ""
+
+#: inc/widgets/service-widget.php:201
+msgid "We provide the best service"
+msgstr ""
+
+#: inc/widgets/service-widget.php:249
+msgid "Layout Alignment"
+msgstr ""
+
+#: inc/widgets/service-widget.php:258
+msgid "No of Service:"
+msgstr ""
+
+#: inc/widgets/service-widget.php:288 inc/widgets/service-widget.php:308
+#: inc/widgets/service-widget.php:327 inc/widgets/service-widget.php:359
+msgid "Select Icon %d"
+msgstr ""
+
+#: inc/widgets/service-widget.php:340
+msgid "Service %d"
+msgstr ""
+
+#: inc/widgets/service-widget.php:343
+msgid "Service Title %d"
+msgstr ""
+
+#: inc/widgets/service-widget.php:348
+msgid "Service Link %d"
+msgstr ""
+
+#: inc/widgets/service-widget.php:354
+msgid "Service description %d"
+msgstr ""
+
+#: inc/widgets/social-widget.php:18
+msgid ""
+"Enter the url only the icon will be displayed as per the links. Compatible "
+"Area: Sidebar, Footer"
+msgstr ""
+
+#: inc/widgets/social-widget.php:20
+msgid "ST: Social Links Widget"
+msgstr ""
+
+#: inc/widgets/social-widget.php:63
+msgid "Social Links"
+msgstr ""
+
+#: inc/widgets/team-widget.php:20
+msgid "ST: Team Widget"
+msgstr ""
+
+#: inc/widgets/team-widget.php:208
+msgid "Team"
+msgstr ""
+
+#: inc/widgets/team-widget.php:209
+msgid "Team widget allows you to display your valuable team members"
+msgstr ""
+
+#: inc/widgets/team-widget.php:251
+msgid "No of Team Posts:"
+msgstr ""
+
+#: inc/widgets/team-widget.php:282 inc/widgets/team-widget.php:317
+#: inc/widgets/team-widget.php:352
+msgid "Team Postion %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:287 inc/widgets/team-widget.php:322
+#: inc/widgets/team-widget.php:357 inc/widgets/team-widget.php:426
+#: inc/widgets/testimonial-widget.php:295
+#: inc/widgets/testimonial-widget.php:330
+#: inc/widgets/testimonial-widget.php:365
+#: inc/widgets/testimonial-widget.php:434
+msgid "Social Links %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:380
+msgid "Team %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:383
+msgid "Team Title %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:388
+msgid "Team Position %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:393
+msgid "Team Description %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:398
+msgid "Team Link %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:404
+msgid "Team Image %d"
+msgstr ""
+
+#: inc/widgets/team-widget.php:407 inc/widgets/testimonial-widget.php:415
+msgid ""
+"Note: Recomended size is 150x150 px. When you change the image, please make "
+"some changes in any other input field to save changes."
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:20
+msgid "ST: Testimonial Widget"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:210
+msgid "Testimonial"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:211
+msgid ""
+"Testimonial widget allows you to display your testimony from valuable "
+"clients"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:245
+msgid "Show Arrow Control:"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:259
+msgid "No of Testimonial Posts:"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:261
+msgid "Note: Min 1 & Max 12. Please save the settings to see the change."
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:290
+#: inc/widgets/testimonial-widget.php:325
+#: inc/widgets/testimonial-widget.php:360
+msgid "Testimonial Postion %d"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:388
+msgid "Testimonial %d"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:391
+msgid "Testimonial Title %d"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:396
+msgid "Testimonial Position %d"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:401
+msgid "Testimonial Description %d"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:406
+msgid "Testimonial Link %d"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:412
+msgid "Testimonial Image %d"
+msgstr ""
+
+#: inc/woocommerce.php:75
+msgid "Search for:"
+msgstr ""
+
+#: inc/woocommerce.php:76
+msgid "Search products&hellip;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:24
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Shark Business Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://sharkthemes.com/downloads/shark-business-pro"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Shark Business Pro is a beautifully crafted multipurpose theme, especially "
+"for business websites. It is blazingly fast, extremely light-weight, search "
+"engine friendly and very easy to use. Shark Business Pro theme has wide "
+"list of customizable features including front page customizable sections "
+"with customizer api and widgets, wide and boxed layout and many more "
+"options. It comes with cross-browser compatibility, mobile friendly design "
+"and responsive features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Shark Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://sharkthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Service Page"
+msgstr ""
+
+#: comments.php:40
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:122
+#. translators: If there are characters in your language that are not supported
+#. by Oxygen, translate this to 'off'. Do not translate into your own language.
+msgctxt "Oxygen font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:127
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:134
+#. translators: If there are characters in your language that are not supported
+#. by Rajdhani, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Rajdhani font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:139
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:144
+#. translators: If there are characters in your language that are not supported
+#. by Philosopher, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Philosopher font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:149
+#. translators: If there are characters in your language that are not supported
+#. by Slabo 27px, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Slabo 27px font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:154
+#. translators: If there are characters in your language that are not supported
+#. by Dosis, translate this to 'off'. Do not translate into your own language.
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:161
+#. translators: If there are characters in your language that are not supported
+#. by News Cycle, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "News Cycle font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:166
+#. translators: If there are characters in your language that are not supported
+#. by Pontano Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Pontano Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:171
+#. translators: If there are characters in your language that are not supported
+#. by Gudea, translate this to 'off'. Do not translate into your own language.
+msgctxt "Gudea font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:176
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:181
+#. translators: If there are characters in your language that are not supported
+#. by Khand, translate this to 'off'. Do not translate into your own language.
+msgctxt "Khand font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/breadcrumb.php:244
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb.php:706
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumb.php:723
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumb.php:740
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumb.php:756 inc/breadcrumb.php:785 inc/breadcrumb.php:812
+#: inc/breadcrumb.php:839 inc/breadcrumb.php:1175
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumb.php:757 inc/breadcrumb.php:813 inc/breadcrumb.php:1179
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumb.php:758 inc/breadcrumb.php:1183
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumb.php:786
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/woocommerce.php:78 searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""

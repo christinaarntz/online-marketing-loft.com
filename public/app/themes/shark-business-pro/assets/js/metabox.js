@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#shark-business-pro-ui-tabs").tabs()});
