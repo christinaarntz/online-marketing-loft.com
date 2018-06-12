@@ -35,9 +35,9 @@
         "johnpbloch/wordpress": "4.9.6",
         "roots/wp-password-bcrypt": "1.0.0",
         "wpackagist-plugin/simple-analytics": "1.1.1",
-        "wpackagist-plugin/wordpress-seo": "7.5.3",
+        "wpackagist-plugin/wordpress-seo": "7.6.1",
         "wpackagist-plugin/wp-maintenance-mode": "2.2",
-        "wpackagist-plugin/jetpack": "6.1.1",
+        "wpackagist-plugin/jetpack": "6.2.1",
         "wpackagist-plugin/backwpup": "3.5.1",
         "wpackagist-plugin/multilingual-press": "2.11.1",
         "wpackagist-plugin/antispam-bee": "2.8.1"
